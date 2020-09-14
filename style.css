@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+body{
+    font-family: 'Varela Round', sans-serif !important;
+}
+.main-header-img{
+    background-image: url("./images/motor.jpg");
+    min-height:60vh ;
+}
+div{
+    direction: rtl;
+}
